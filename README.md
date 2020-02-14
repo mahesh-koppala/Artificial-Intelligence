@@ -1,1 +1,1 @@
-# Artificial-Intelligence
+Instructor : Prof. Vamsikrishna  
